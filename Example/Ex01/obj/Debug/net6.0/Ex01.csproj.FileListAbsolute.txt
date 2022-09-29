@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\bin\Debug\net6.0\Ex01.exe
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\bin\Debug\net6.0\Ex01.deps.json
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\bin\Debug\net6.0\Ex01.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\bin\Debug\net6.0\Ex01.dll
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\bin\Debug\net6.0\Ex01.pdb
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.dll
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\refint\Ex01.dll
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.pdb
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\Ex01.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Репозитории\Console\Example\Ex01\obj\Debug\net6.0\ref\Ex01.dll
